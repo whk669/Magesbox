@@ -1,0 +1,134 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "SinCourse_\u53CC\u5C42PBR\u7B80\u5316"
+  m_Shader: {fileID: 4800000, guid: a55c940f2c22f3d4b9bffd160f960b03, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AddAlpha:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Alpha:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _AlphaDistortionMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _AlphaDistortionTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlpha:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainCubemap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainDiffuse:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainNormal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainSecTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SubCubemap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SubDiffuse:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SubEmission:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SubNormal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SubSecTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AddAlphaU: 0
+    - _AddAlphaV: 0
+    - _AlphaBias: 0
+    - _AlphaDistortion2UV: 0
+    - _AlphaDistortionMask2UV: 0
+    - _AlphaDistortionMaskU: 0
+    - _AlphaDistortionMaskV: 0
+    - _AlphaDistortionTexInfluenceAddAlpha: 0
+    - _AlphaDistortionTexInfluenceDetailAlpha: 0
+    - _AlphaDistortionU: 0
+    - _AlphaDistortionV: 0
+    - _AlphaU: 0
+    - _AlphaV: 0
+    - _DetailAlphaU: 0
+    - _DetailAlphaV: 0
+    - _DiffuseIndensity: 1
+    - _DistortionIndensity: 0
+    - _MainAO: 0
+    - _MainCubemapIndensity: 1
+    - _MainDiffuseU: 0
+    - _MainDiffuseV: 0
+    - _MainGloss: 1
+    - _MainMetallic: 1
+    - _MainNormalScale: 1
+    - _MainNormalU: 0
+    - _MainNormalV: 0
+    - _MainSecTexU: 0
+    - _MainSecTexV: 0
+    - _SubAO: 0
+    - _SubCubemapIndensity: 1
+    - _SubDiffuseIndensity: 1
+    - _SubDiffuseU: 0
+    - _SubDiffuseV: 0
+    - _SubEmissionIndensity: 1
+    - _SubEmissionU: 0
+    - _SubEmissionV: 0
+    - _SubGloss: 1
+    - _SubMetallic: 1
+    - _SubNormalScale: 1
+    - _SubNormalU: 0
+    - _SubNormalV: 0
+    - _SubSecTexU: 0
+    - _SubSecTexV: 0
+    - __dirty: 0
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _SubColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SubEmissionColor: {r: 1, g: 1, b: 1, a: 1}

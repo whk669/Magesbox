@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "PBR\u7B80\u5316 1"
+  m_Shader: {fileID: 4800000, guid: a742c85f7936f7f408fb13b91ce8d4ae, type: 3}
+  m_ShaderKeywords: _DITHERSWITCH2_ON _OPACITYMASKTEXSWITCH2_ON _OPACITYMASKTEXSWITCH_ON
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3006
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AlphaTex1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _AlphaTex3:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CubeMapTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DistortionTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OffsetMaskTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OffsetMaskTex2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OffsetTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OffsetTex2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OpacityMaskTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OpacityMaskTex2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SecTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AO: 1
+    - _AlbedoOFF: 0
+    - _AlphaTex1U: 0
+    - _AlphaTex1U2: 0
+    - _AlphaTex1V: 0
+    - _AlphaTex1V2: 0
+    - _CubeMapIntensity: 0
+    - _Cutoff: 0.5
+    - _Distortion2UV: 0
+    - _DistortionIntensity: 0
+    - _DistortionU: 0
+    - _DistortionV: 0
+    - _DitherBias: 0
+    - _DitherBias2: -2.59
+    - _DitherSwitch: 0
+    - _DitherSwitch2: 1
+    - _EmissionSwitch: 0
+    - _Gloss: 1
+    - _MainTexU: 0
+    - _MainTexV: 0
+    - _MaskAddBias: 0
+    - _MaskAddBias2: 0
+    - _Metallic: 1
+    - _NormalIntensity: 1
+    - _NormalTexDistortionUV: 0
+    - _NormalTexU: 0
+    - _NormalTexV: 0
+    - _OffsetMaskTexFrequencyToOpacityMaskTex: 0
+    - _OffsetMaskTexU: 0
+    - _OffsetMaskTexU2: 0
+    - _OffsetMaskTexV: 0
+    - _OffsetMaskTexV2: 0
+    - _OffsetMaxTexFrequencyToOpacityMaskTex: 0
+    - _OffsetTexDistortionUV: 0
+    - _OffsetTexDistortionUV2: 0
+    - _OffsetTexU: 0
+    - _OffsetTexU2: 0
+    - _OffsetTexV: 0
+    - _OffsetTexV2: 0
+    - _OpacityMaskTexSwitch: 1
+    - _OpacityMaskTexSwitch2: 1
+    - _OpacityMaskTexU: 0
+    - _OpacityMaskTexU2: 0
+    - _OpacityMaskTexV: 0
+    - _OpacityMaskTexV2: 0
+    - _SecTexDistortionUV: 0
+    - _SecTexDistortionUV1: 0
+    - _SecTexU: 0
+    - _SecTexV: 0
+    - _VertexOffsetIntensity: 0
+    - __dirty: 0
+    m_Colors:
+    - _AllColor: {r: 1, g: 1, b: 1, a: 1}
+    - _MainColor: {r: 1, g: 1, b: 1, a: 1}
